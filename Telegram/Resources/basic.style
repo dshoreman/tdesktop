@@ -26,10 +26,10 @@ TextStyle {
 
 semibold: "Open Sans Semibold";
 
-fsize: 13px;
+fsize: 10px;
 normalFont: font(fsize);
 semiboldFont: font(fsize semibold);
-boxFontSize: 14px;
+boxFontSize: 11px;
 boxTextFont: font(boxFontSize);
 
 emojiImgSize: 18px; // exceptional value for retina

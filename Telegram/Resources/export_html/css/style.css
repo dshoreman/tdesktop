@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font: 12px/18px 'Open Sans',"Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+    font: 10px/16px 'Open Sans',"Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
 }
 strong {
     font-weight: 700;
@@ -80,7 +80,7 @@ pre {
 }
 .page_header .content .text {
     padding: 24px 24px 22px 24px;
-    font-size: 22px;
+    font-size: 18px;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -167,7 +167,7 @@ pre {
     padding: 24px;
 }
 .personal_info .userpic .initials {
-    font-size: 30px;
+    font-size: 25px;
 }
 .personal_info .rows {
     float: left;
@@ -206,15 +206,15 @@ a.block_link:hover {
 .section .counter {
     float: right;
     padding: 14px 24px 0;
-    font-size: 15px;
+    font-size: 12px;
 }
 .section .label {
     padding: 15px 0 0 82px;
-    font-size: 15px;
+    font-size: 12px;
 }
 .list_page .page_about {
     padding: 16px 24px 0;
-    font-size: 11px;
+    font-size: 9px;
 }
 .list_page .entry_list {
     padding: 16px 0;
@@ -223,14 +223,14 @@ a.block_link:hover {
     padding: 10px 16px;
 }
 .list_page .entry .userpic .initials {
-    font-size: 18px;
+    font-size: 16px;
 }
 .list_page .entry .body {
     margin-left: 66px;
 }
 .list_page .entry .name {
     padding: 4px 0 2px;
-    font-size: 14px;
+    font-size: 12px;
 }
 .list_page .entry .subname {
     padding-top: 4px;
@@ -239,7 +239,7 @@ a.block_link:hover {
     padding-top: 4px;
 }
 .list_page .entry .info {
-    font-size: 11px;
+    font-size: 9px;
     padding-top: 5px;
 }
 .history {
@@ -266,10 +266,10 @@ div.selected {
     margin: 0 auto;
 }
 .service .userpic .initials {
-    font-size: 24px;
+    font-size: 18px;
 }
 .message .userpic .initials {
-    font-size: 16px;
+    font-size: 14px;
 }
 .default {
     padding: 10px;
@@ -314,16 +314,16 @@ div.selected {
 .default .media .title,
 .default .media_poll .question {
     padding-top: 4px;
-    font-size: 14px;
+    font-size: 11px;
 }
 .default .media .description {
     color: #000000;
     padding-top: 4px;
-    font-size: 13px;
+    font-size: 10px;
 }
 .default .media .status {
     padding-top: 4px;
-    font-size: 13px;
+    font-size: 10px;
 }
 .default .video_file_wrap,
 .default .animated_wrap {
@@ -344,7 +344,7 @@ div.selected {
     right: 3px;
     bottom: 3px;
     color: #ffffff;
-    font-size: 11px;
+    font-size: 9px;
 }
 .video_play_bg {
     background: rgba(0, 0, 0, .4);
@@ -379,13 +379,13 @@ div.selected {
     color: #FFF;
     display: block;
     line-height: 40px;
-    font-size: 13px;
+    font-size: 11px;
     text-align: center;
 }
 .pagination {
     text-align: center;
     padding: 20px;
-    font-size: 16px;
+    font-size: 13px;
 }
 
 .toast_container {

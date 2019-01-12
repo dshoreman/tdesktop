@@ -128,8 +128,8 @@ void SetupInterfaceScale(
 		icon ? st::settingsScalePadding : st::settingsBigScalePadding);
 
 	static const auto ScaleValues = (cIntRetinaFactor() > 1)
-		? std::vector<int>{ 100, 110, 120, 130, 140, 150 }
-		: std::vector<int>{ 100, 125, 150, 200, 250, 300 };
+		? std::vector<int>{ 75, 100, 110, 120, 130, 140, 150 }
+		: std::vector<int>{ 75, 100, 125, 150, 200, 250, 300 };
 	const auto sectionFromScale = [](int scale) {
 		scale = cEvalScale(scale);
 		auto result = 0;

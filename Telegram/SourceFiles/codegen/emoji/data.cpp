@@ -45,31 +45,31 @@ struct Replace {
 };
 
 Replace Replaces[] = {
-	{ { 0xD83DDE0AU }, ":-)" },
+        { { 0xD83DDE0AU }, ":)" },
 	{ { 0xD83DDE0DU }, "8-)" },
 	{ { 0x2764U }, "<3" },
 //	{ { 0xD83DDC8BU }, ":kiss:" },
 //	{ { 0xD83DDE01U }, ":grin:" },
 //	{ { 0xD83DDE02U }, ":joy:" },
-	{ { 0xD83DDE1AU }, ":-*" },
-//	{ { 0xD83DDE06U }, "xD" }, // Conflicts with typing xDDD...
+        { { 0xD83DDE1AU }, ":*" },
+        { { 0xD83DDE06U }, "xD" }, // Conflicts with typing xDDD...
 //	{ { 0xD83DDC4DU }, ":like:" },
 //	{ { 0xD83DDC4EU }, ":dislike:" },
 //	{ { 0x261DU }, ":up:" },
 //	{ { 0x270CU }, ":v:" },
 //	{ { 0xD83DDC4CU }, ":ok:" },
 	{ { 0xD83DDE0EU }, "B-)" },
-	{ { 0xD83DDE03U }, ":-D" },
-	{ { 0xD83DDE09U }, ";-)" },
-	{ { 0xD83DDE1CU }, ";-P" },
-	{ { 0xD83DDE0BU }, ":-p" },
+        { { 0xD83DDE03U }, ":D" },
+        { { 0xD83DDE09U }, ";)" },
+        { { 0xD83DDE1CU }, ";p" },
+        { { 0xD83DDE0BU }, ":p" },
 	{ { 0xD83DDE14U }, "3(" },
-	{ { 0xD83DDE1EU }, ":-(" },
+        { { 0xD83DDE1EU }, ":(" },
 	{ { 0xD83DDE0FU }, ":]" },
 	{ { 0xD83DDE22U }, ":'(" },
 	{ { 0xD83DDE2DU }, ":_(" },
 	{ { 0xD83DDE29U }, ":((" },
-//	{ { 0xD83DDE28U }, ":o" }, // Conflicts with typing :ok...
+        { { 0xD83DDE28U }, ":o" }, // Conflicts with typing :ok...
 	{ { 0xD83DDE10U }, ":|" },
 	{ { 0xD83DDE0CU }, "3-)" },
 	{ { 0xD83DDE20U }, ">(" },
